@@ -35,7 +35,7 @@ namespace LibrarySystemProject
             string Password = txtPassword.Text;
             Welcome f2 = new Welcome();
 
-            if (Username == "Joshua" && Password == "Joshua") ;
+            if (Username == "Joshua" && Password == "Joshua")
             {
                 f2.ShowDialog();
             }
