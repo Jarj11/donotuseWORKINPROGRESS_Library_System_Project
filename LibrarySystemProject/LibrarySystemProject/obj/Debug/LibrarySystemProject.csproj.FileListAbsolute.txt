@@ -1,0 +1,10 @@
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.WFLogin.resources
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Properties.Resources.resources
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.csproj.GenerateResource.Cache
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Welcome.resources
