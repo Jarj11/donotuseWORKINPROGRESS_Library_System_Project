@@ -7,12 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace LibrarySystemProject
 {
     public partial class WFLogin : Form
     {
         static string Username;
+        Thread th;
 
         public WFLogin()
         {
@@ -33,17 +35,24 @@ namespace LibrarySystemProject
         {
             Username = txtUsername.Text;
             string Password = txtPassword.Text;
-            Welcome f2 = new Welcome();
 
             if (Username == "Joshua" && Password == "Joshua")
             {
-                f2.ShowDialog();
+                this.Close();
+                th = new Thread(opennewform);
+                th.SetApartmentState(ApartmentState.STA);
+                th.Start();
             }
 
             else
             {
                 MessageBox.Show("The UserName And Password You Entered Is Incorect", "Login Page Wrong Password");
             }
+        }
+
+        private void opennewform(object obj)
+        {
+            Application.Run(new Welcome());
         }
     }
 }

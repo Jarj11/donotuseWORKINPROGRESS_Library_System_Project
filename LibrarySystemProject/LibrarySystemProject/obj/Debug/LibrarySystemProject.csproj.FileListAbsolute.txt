@@ -8,3 +8,13 @@ c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\Libra
 c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
 c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
 c:\users\joshua\documents\visual studio 2015\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Welcome.resources
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.WFLogin.resources
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Properties.Resources.resources
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Welcome.resources
+C:\Users\20271855\Source\Repos\donotuseWORKINPROGRESS_Library_System_Project\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.csproj.GenerateResource.Cache
